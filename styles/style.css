@@ -5,8 +5,8 @@
 /*--header part---*/
 .banner-section {
     background-image: url(../images/banner/banner1.png);
-    height: 808px;
-    margin: 0px;
+    height: 760px;
+    margin-bottom: 100px;
 
 }
 
@@ -37,4 +37,38 @@
     margin-left: 305px;
     margin-top: 10px;
     padding: 10px;
+}
+
+/*---body part---failure-section--*/
+.body-part {
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.failure-class {
+    margin-left: 60px;
+    margin-right: 150px;
+}
+
+.failure-title {
+    font-weight: 700;
+    font-size: 40px;
+    margin-right: 50px;
+    color: #151414;
+}
+
+.failure-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+.trust-description {
+    font-size: 14px;
+    color: #444343;
+}
+
+.fa-check {
+    color: rgba(22, 216, 135, 1)
 }
