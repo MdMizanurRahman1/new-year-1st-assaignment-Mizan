@@ -35,12 +35,14 @@
     background: #F15B22;
     border-radius: 5px;
     border: 0;
-    margin-left: 305px;
+    margin-left: 300px;
     margin-top: 10px;
     padding: 10px;
 }
 
+
 /*---body part---failure-section--*/
+
 .body-part {
     display: flex;
     align-items: center;
@@ -72,11 +74,17 @@
     color: #444343;
 }
 
+/*---font awesome Icon--*/
+
 .fa-check {
     color: rgba(22, 216, 135, 1)
 }
 
+
+
 /*---my plans details----*/
+
+
 .plans-detail {
     margin-left: 240px;
 
@@ -118,6 +126,7 @@
     color: #737272;
 }
 
+
 /*----hand mind set watch image section*/
 
 .watch {
@@ -157,6 +166,7 @@
 
 /*----extra work for bonus part--*/
 
+
 .extra-section {
     background-color: rgba(248, 239, 239, 0.836);
     width: 820px;
@@ -168,7 +178,6 @@
 .extra-work img {
     border-radius: 50%;
     margin-right: 20px;
-
 }
 
 #work-experience {
@@ -197,6 +206,8 @@
 
 
 /*---footer section starts from here--*/
+
+
 .footer-section {
     display: flex;
     background: #151414;
@@ -254,3 +265,7 @@
     border-radius: 8px;
     padding: 5px;
 }
+
+
+
+/*---footer ends here--*/
