@@ -129,7 +129,7 @@
     height: 200px;
     margin-left: 250px;
     border-radius: 8px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 
 
 }
@@ -150,4 +150,63 @@
     border-radius: 5px;
     padding: 10px;
     color: #F15B22;
+}
+
+/*---footer section starts from here--*/
+.footer-section {
+    display: flex;
+    background: #151414;
+    color: whitesmoke;
+
+
+}
+
+.footer-icons {
+    margin: 100px 200px 100px 250px;
+}
+
+#footer-title {
+    font-size: 30px;
+    color: #F8F8F8;
+    margin-bottom: 7px;
+
+}
+
+#footer-detail {
+
+    font-size: 10px;
+    color: #FFFFFF;
+
+}
+
+.icons-picture {
+    margin-right: 10px;
+}
+
+.subscribe-section {
+    margin: 100px 200px 100px 100px;
+}
+
+#sub-section {
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 8px;
+}
+
+#email {
+    background: #151414;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+#btn-subscribe {
+    font-weight: 600;
+    font-size: 14px;
+    color: #F15B22;
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 5px;
 }
